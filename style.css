@@ -208,7 +208,7 @@ a {
     align-items: center;
     justify-content: center;
     text-align: center;
-    background: url('images/salon-hero.png') center/cover no-repeat;
+    background: url('salon-hero.png') center/cover no-repeat;
     overflow: hidden;
 }
 
